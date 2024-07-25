@@ -1,5 +1,11 @@
 ,df/gndfk.n dghsfdks,dkjas
+<<<<<<< HEAD
 hgdfgas
 sadsghdf
 new commit
 ,jhd
+=======
+
+
+new line added 
+>>>>>>> cb50ad749328b4623766e7fbf2e621d4a76e44c0
